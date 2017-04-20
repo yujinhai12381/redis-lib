@@ -1,2 +1,2 @@
-# redis-lib
-redis lib for php 
+#redis-lib
+
